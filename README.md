@@ -24,7 +24,7 @@ This work follows established legal procedure: I have given each organisation an
 
 A journalist recently asked me a very reasonable question:
 
-> ‘Peter, is there really a smoking gun in your claims about corruption in Higher Education governance?’
+> _‘Peter, is there really a smoking gun in your claims about corruption in Higher Education governance?’_
 
 And the answer is: probably not in the way journalism has been trained to expect.
 
@@ -57,7 +57,7 @@ That is democracy in action.
 
 Corruption may be everywhere. But so are people who can think, speak, and hold power to account.
 
-Let’s be more of them.
+_Let’s be more of them._
 
 ---
 
